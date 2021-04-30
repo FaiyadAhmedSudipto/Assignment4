@@ -1,4 +1,4 @@
-# CRUISE QUEEN - A Simple JavaScript Project
+# CRUISE QUEEN - A Simple Calculating Project
 
 ## Github Code
 **Github Link-**  https://github.com/FaiyadAhmedSudipto/Assignment4
